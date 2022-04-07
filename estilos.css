@@ -1,3 +1,6 @@
+body{
+    background-color: aquamarine;
+}
 *{
     margin: 0;
     padding: 0;
@@ -17,11 +20,13 @@ header img{
 
 }
 h1{
+    color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2em;
 }
 h2{
+    color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1em;
@@ -48,7 +53,7 @@ article p{
 article p, article ul{
     margin-left: 20%;
     font-family: 20% sans-serif;
-    color: darkslateblue;
+    color: rgb(0, 0, 0);
     line-height: 1.3em;
     margin-bottom: 1.6em;
 }
@@ -65,7 +70,7 @@ footer{
     text-align: center;
 }
 footer a:link, footer a:visited{
-    color: darkblue;
+    color: rgb(0, 0, 0);
 }
 footer a:hover{
     text-decoration: underline;
