@@ -68,6 +68,7 @@ footer{
     background: darkslategray;
     color: azure;
     text-align: center;
+    font-family: "courier";
 }
 footer a:link, footer a:visited{
     color: rgb(0, 0, 0);
